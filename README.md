@@ -1,0 +1,1 @@
+A modern, fully responsive personal portfolio website built using HTML, CSS, and JavaScript. Features include dark mode, smooth scrolling navigation, interactive project cards, skills section, certifications, experience timeline, and contact form. Designed with a clean UI and optimized for desktop and mobile devices.
