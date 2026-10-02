@@ -67,7 +67,7 @@ Welcome to my GitHub portfolio! I am an IT professional focused on **Windows Adm
 ## 📄 Resume
 
 📥 My latest resume is available in this repository.
-
+https://techwithpriya.github.io/My-Portfolio/
 ---
 
 ## 📫 Connect With Me
