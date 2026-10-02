@@ -60,7 +60,7 @@ Welcome to my GitHub portfolio! I am an IT professional focused on **Windows Adm
 ## 🌐 Portfolio Website
 
 🔗 **Live Portfolio:**
-`https://YOUR-USERNAME.github.io/portfolio/`
+
 
 ---
 
@@ -72,9 +72,9 @@ Welcome to my GitHub portfolio! I am an IT professional focused on **Windows Adm
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: `YOUR-LINKEDIN-URL`
-* 🐙 GitHub: `YOUR-GITHUB-URL`
-* 📧 Email: `YOUR-EMAIL`
+* 💼 LinkedIn:(https://www.linkedin.com/in/pdeshmukh503/)
+* 🐙 GitHub: https://github.com/TechWithPriya/My-Portfolio
+* 📧 Email: priyad6501@gmail.com
 
 ---
 
